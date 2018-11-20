@@ -1,6 +1,3 @@
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
 num = list(range(0,100))
 def find(num):
     var = input("""Please enter a number: """)
